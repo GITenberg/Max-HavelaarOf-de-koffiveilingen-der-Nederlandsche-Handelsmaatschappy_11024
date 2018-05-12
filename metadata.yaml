@@ -1,6 +1,9 @@
 _repo: Max-HavelaarOf-de-koffiveilingen-der-Nederlandsche-Handelsmaatschappy_11024
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: "Max Havelaar\r\nOf de koffieveilingen der Nederlandsche Handelsmaatschappy"
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Multatuli
@@ -19,6 +22,8 @@ description: "Max Havelaar: Or the Coffee Auctions of the Dutch Trading Company 
   \ in the nineteenth and early twentieth century. In the novel, the protagonist,\
   \ Max Havelaar, tries to battle against a corrupt government system in Java, which\
   \ was then a Dutch colony.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11024#Max-HavelaarOf-de-koffiveilingen-der-Nederlandsche-Handelsmaatschappy
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
