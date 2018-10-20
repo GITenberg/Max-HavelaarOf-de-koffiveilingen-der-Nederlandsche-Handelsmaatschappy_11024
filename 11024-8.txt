@@ -12,6 +12,7 @@ Title: Max Havelaar
 Author: Multatuli
 
 Release Date: February 10, 2004 [EBook #11024]
+Last Updated: August 4, 2016
 
 Language: Dutch
 
@@ -393,7 +394,7 @@ liet me pen en papier geven, en schreef:
 
    ..._by de toenemende ligtzinnigheid en onzedelykheid onder de jeugd,
    by het dagelyks aangroeien van het getal fortuinzoekers, en met het
-   oog op de noodzakeijkheid om soliditeit van gedrag, hand-aan-hand te
+   oog op de noodzakelykheid om soliditeit van gedrag, hand-aan-hand te
    doen gaan met soliditeit in de uitvoering, van de gegeven orders_ ...
 
 't Is, waarachtig, alles de zuivere waarheid!
@@ -495,7 +496,7 @@ menschen die ik niet lyden kan.
 
 Ja, ja, hy was het, die my uit de handen van den Griek had verlost! Denk
 nu niet dat ik ooit door zeeroovers ben genomen geweest, of dat ik twist
-heb gehad in den Levant. Ik heb u reeds gezegd dat ik na myn trouwen,
+heb gehad in den Levant. Ik heb u reeds gezegd dat _ik_ na myn trouwen,
 met myn vrouw naar den Haag ben gegaan. Daar hebben wy het Mauritshuis
 gezien, en flanel gekocht in de Veenestraat. Dit is het eenige uitstapje
 dat de zaken my ooit hebben veroorloofd, omdat er zooveel by ons omgaat.
@@ -3234,7 +3235,7 @@ de zyne.[40]
 
 Een _liplap_--om den term te bezigen die voor beleefder wordt gehouden,
 zou ik moeten zeggen een "_dusgenaamd inlandsch kind_" maar ik vraag
-vergunning my te houden aan 't spraakgebruik dat uit allitteratie.
+vergunning my te houden aan 't spraakgebruik dat uit allitteratie
 geboren schynt, zonder dat ik met die uitdrukking iets beleedigends
 bedoel, en wat beteekent het woord dan ook?--een liplap heeft veel
 goeds. Ook de Europeaan heeft veel goeds. Beiden hebben veel verkeerds,
@@ -3332,7 +3333,7 @@ om zich te verkleeden, want by de plechtigheid die er plaats hebben zou,
 scheen het officieel voorgescheven kostuum een vereischte te wezen.
 Rondom het huis stonden honderden menschen, die of te-paard den wagen
 van den resident hadden begeleid, of tot het gevolg der saamgeroepen
-Hoofden behoorden. De policie-en bureau-oppassers liepen bedryvig
+Hoofden behoorden. De policie- en bureau-oppassers liepen bedryvig
 heen-en-weer. Kortom, alles toonde aan dat de eentonigheid op dat
 vergeten plekje gronds in den javaschen Westhoek, voor een oogenblik
 werd afgebroken door wat leven.
@@ -7030,7 +7031,7 @@ vragen of 't waar is dat ge te _Padang_ zoo dikwyls geduelleerd hebt?
 --Ja, zeer dikwyls, en daartoe was aanleiding. Ik heb u reeds gezegd dat
 de gunst van den Gouverneur op zoodanigen buitenpost de maatstaf is,
 waarnaar velen hun welwillendheid afmeten. De meesten waren dus voor my
-zeer _on_welwillend, en vaak ging dit over in grofheid. Ik van myn kant
+zeer _on_-welwillend, en vaak ging dit over in grofheid. Ik van myn kant
 was prikkelbaar. Een niet beantwoorde groet, een schimpscheut op de
 "zotterny van iemand die 't wil opnemen tegen den generaal" een
 toespeling op myn armoede, op myn hongerlyden, op 't slechte voedsel dat
@@ -7372,7 +7373,7 @@ regen of zoo-iets, nooit van wanbestuur.
 
 De nota van Havelaars voorganger, waarin deze "het verloop van volk uit
 het distrikt _Parang-Koedjang_ toeschreef aan _verregaand_ misbruik"
-ligt voor my.[119] Deze nota was _in_officieel, en bevatte punten
+ligt voor my.[119] Deze nota was _in_-officieel, en bevatte punten
 waarover die ambtenaar met den resident van _Bantam_ te _spreken_ had.
 Maar vergeefs zocht Havelaar in 't archief naar een blyk dat zyn
 voorganger diezelfde zaak ruiterlyk by den waren naam had genoemd in een
@@ -7971,7 +7972,7 @@ _Aan den Kontroleur van Lebak_.
    vriendschappelyk waarschuwde.
 
    Halfheid leidt tot niets. _Half_-goed is niet goed. _Half_-waar is
-   _on_waar.
+   _on_-waar.
 
    Voor vol traktement, voor vollen rang, na een duidelyken _volledigen_
    eed, doe men zyn vollen plicht.
@@ -8301,7 +8302,7 @@ gestalten zoo spookachtig om 't huis waarden en bescherming zochten by
 haren Max! Dan wenkte zy dezen, en hy stond op om de klagers tot zich te
 roepen. De meesten kwamen uit het distrikt _Parang-Koedjang_, waar des
 Regents schoonzoon Hoofd was, en hoewel dat Hoofd gewis niet verzuimde
-zyn aandeel van, 't afgeperste te nemen, was het toch voor niemand een
+zyn aandeel van 't afgeperste te nemen, was het toch voor niemand een
 geheim dat hy meestal roofde uit naam en ten-behoeve van den Regent. Het
 was aandoenlyk hoe die arme lieden op Havelaars ridderlykheid
 vertrouwden en overtuigd waren dat hy hen niet roepen zou om den
@@ -8403,7 +8404,7 @@ Hollander. Dusdanige verschillen geven dikwyls aanleiding tot
 oneenigheid in 't oordeel over indische zaken. Immers wanneer men nagaat
 dat Java alleen reeds zoo scherp is afgedeeld in twee ongelyksoortige
 deelen, zonder nog te letten op de vele onderdeelen van die splitsing,
-kan, men berekenen hoe groot het onderscheid moet wezen tusschen
+kan men berekenen hoe groot het onderscheid moet wezen tusschen
 volkstammen die verder van elkander wonen en zelfs door de zee
 gescheiden zyn. Wie nederlandsch Indie alleen kent van Java, kan zich
 evenmin een juist denkbeeld vormen van den _Maleier_, den _Amboinees_,
@@ -9081,7 +9082,7 @@ huizen, gebouwd van steen, en gedekt met roode pannen. _Saïdjah_ had
 nooit zoo-iets gezien. Hy bleef daar een dag omdat hy vermoeid was, maar
 's nachts in de koelte ging hy verder, en kwam tot _Tangerang_ den
 volgenden dag, voor nog de schaduw gedaald was tot zyn lippen, hoewel hy
-den grooten _toedoeng_, droeg dien zyn vader hem had achtergelaten.
+den grooten _toedoeng_, droeg, dien zyn vader hem had achtergelaten.
 
 Te _Tangerang_ baadde hy zich in de rivier naby de overvaart, en hy
 rustte uit in 't huis van een bekende zyns vaders, die hem wees hoe men
@@ -9215,7 +9216,7 @@ _Djalma_ wanneer ze _Saïdjah_ zag. Ook de jonge meisjes begrepen beter
 dan vroeger hoe de javaansche schilder _Radhen Saleh_ zoo grooten opgang
 had gemaakt te Parys.
 
-Maar men vond _Saïdjah_ ondankbaar toen by, na byna drie jaren dienst,
+Maar men vond _Saïdjah_ ondankbaar toen hy, na byna drie jaren dienst,
 zyn ontslag vroeg en om een bewys verzocht dat hy zich goed gedragen
 had. Men kon hem dit echter niet weigeren, en _Saïdjah_ ging met een
 vroolyk hart op reis.
@@ -9610,7 +9611,7 @@ Ja, dáár moest het zyn ...dáár had _Adinda_ gewoond!
 Struikelend over halfvergane bamboe en over stukken van 't neergevallen
 dak, baande hy zich een weg naar 't heiligdom dat hy zocht. En, waarlyk,
 hy vond nog iets terug van den opstaanden _Pagger_ waarnaast _Adinda_'s
-baleh-baleh_ gestaan had, en zelfs stak in dien _pagger_ nog de
+_baleh-baleh_ gestaan had, en zelfs stak in dien _pagger_ nog de
 bamboezen pin, waaraan ze haar kleed hing als ze zich te slapen
 legde ...
 
@@ -10056,7 +10057,7 @@ meer kans ware geweest op "_schipperen_" En voorts: "dat Havelaar _hem
 stoorde in zyn drukke bezigheden!_"
 
 De man was zeker bezig met een jaarverslag over rustige rust! Ik heb
-dien brief voor my liggenen vertrouw myn oogen niet. Ik herlees den
+dien brief voor my liggen en vertrouw myn oogen niet. Ik herlees den
 brief van den adsistent-resident van _Lebak_ ik plaats hèm en den
 resident van _Bantam_, Havelaar en Slymering naast elkander...
 
@@ -10547,7 +10548,7 @@ _Bantam_, welks inhoud blykt uit het antwoord dat ik hier afschryf:
    by al wat ik doe en zeg, of juister: by al wat ik niet  doe en niet
    zeg_.
 
-   Ik weet dat gy op myn loyauteit ten deze vertrouwt.[172]
+   Ik weet dat gy op myn loyaliteit ten deze vertrouwt.[172]
 
    Doch ik neem de vryheid ten plechtigste te protesteeren tegen den
    minsten zweem van afkeuring omtrent éénige handeling, éénig woord,
@@ -11414,7 +11415,7 @@ te bewegen geweest 'n hand uittesteken. De brief dien ik tot hem
 richtte, is ontelbare malen gepubliceerd, en bevat nagenoeg alles wat in
 de Havelaarszaak de hoofdmomenten uitmaakt. De man heeft nooit
 geantwoord, nooit blyk gegeven van welwillendheid om zooveel mogelyk te
-herstellen wat door zyn schuld bedorven is, Door die gewetenlooze
+herstellen wat door zyn schuld bedorven is. Door die gewetenlooze
 lauwheid ten-laatste _gedwongen_ tot publiciteit, tot het kiezen van een
 anderen weg dan ik tot dien tyd toe betrad, wees verontwaardiging my
 eindelyk de middelen aan om te bereiken wat onbereikbaar scheen: _een
